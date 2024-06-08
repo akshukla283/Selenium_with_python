@@ -1,0 +1,4 @@
+2024-06-05 17:54:45,810 :INFO :pytestsDemo.test_demo_014_logging : Information statements 
+2024-06-05 17:54:45,810 :WARNING :pytestsDemo.test_demo_014_logging : Something is in warning mode
+2024-06-05 17:54:45,811 :ERROR :pytestsDemo.test_demo_014_logging : A major error has happened
+2024-06-05 17:54:45,811 :CRITICAL :pytestsDemo.test_demo_014_logging : Critical issue

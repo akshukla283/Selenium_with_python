@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7bf766ff-f210-473d-ba35-46f3d9b89e89" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/pythonSelenium.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytestsDemo/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytestsDemo/base_class.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytestsDemo/conftest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytestsDemo/test_demo_001.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytestsDemo/test_demo_002.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytestsDemo/test_demo_003.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytestsDemo/test_demo_004.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytestsDemo/test_demo_005.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytestsDemo/test_demo_006.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytestsDemo/test_demo_007.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytestsDemo/test_demo_008.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytestsDemo/test_demo_009.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytestsDemo/test_demo_010.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytestsDemo/test_demo_011.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytestsDemo/test_demo_012.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytestsDemo/test_demo_013.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytestsDemo/test_demo_014_logging.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytestsDemo/test_demo_015_logging.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytestsDemo/test_demo_016_logging.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytestsDemo/test_demo_017_logging_from_baseclass_util.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytestsDemo/test_demo_018_logging_from_baseclass_util.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonBasics/python_0010_inheritance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonBasics/python_0011_inheritance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonBasics/python_0012_files.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonBasics/python_0013_files.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonBasics/python_0014_exception.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonBasics/python_0015_exception.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonBasics/python_001_demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonBasics/python_002_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonBasics/python_003_tuple.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonBasics/python_004_dict.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonBasics/python_005_loops.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonBasics/python_006_function.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonBasics/python_007_class.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonBasics/python_008_class.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonBasics/python_009_class.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonBasics/test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonSelenium/note.text" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonSelenium/selenuim_001_demoBrowser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonSelenium/selenuim_002_demoBrowser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonSelenium/selenuim_003_demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonSelenium/selenuim_004_firefox.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonSelenium/selenuim_005_Edge.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonSelenium/selenuim_006_locators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonSelenium/selenuim_007_xpath.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonSelenium/selenuim_008_cssselcter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonSelenium/selenuim_009_cssselcter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonSelenium/selenuim_010_cssselcter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonSelenium/selenuim_011_locator_extensions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonSelenium/selenuim_012_static_dropdown.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonSelenium/selenuim_013_dropdown_text.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonSelenium/selenuim_014_ui_control.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonSelenium/selenuim_015_radio_buttons.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonSelenium/selenuim_016_handle_java_popup.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonSelenium/selenuim_017_explicit_and_implicit.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonSelenium/selenuim_018_chaining.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonSelenium/selenuim_019_explicit_and_implicit.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonSelenium/selenuim_020_explicit.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonSelenium/selenuim_021_explicit.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonSelenium/selenuim_022_exercise.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonSelenium/selenuim_023_action_demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonSelenium/selenuim_024_child_window.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonSelenium/selenuim_025_assigment.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonSelenium/selenuim_026_iframes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonSelenium/selenuim_027_executing_javascript_using_python.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonSelenium/selenuim_028_headless_mode.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonSelenium/selenuim_029_ssl_certificate.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonSelenium/selenuim_030_how_to_short_table.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonSelenium/selenuim_031_how_to_short_table_added_debug.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonSelenium/selenuim_032_chrome_option_demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonSelenium/selenuim_033_end_to_end_practice.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2gd9qcH9TN4KspUg6MbDCc0d53C" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python tests.Python tests for test_demo_001.test_firstProgram.executor": "Run",
+    "Python tests.Python tests for test_demo_001.test_secondProgram.executor": "Run",
+    "Python tests.Python tests for test_demo_011.TestExample2.test_editProfile.executor": "Run",
+    "Python tests.Python tests in test_demo_001.py.executor": "Run",
+    "Python tests.Python tests in test_demo_007.py.executor": "Run",
+    "Python tests.Python tests in test_demo_010.py.executor": "Run",
+    "Python.first_demo.executor": "Run",
+    "Python.python_0010_inheritance.executor": "Run",
+    "Python.python_0011_inheritance.executor": "Run",
+    "Python.python_0012_files.executor": "Run",
+    "Python.python_0013_files.executor": "Run",
+    "Python.python_0014_exception.executor": "Run",
+    "Python.python_0015_exception.executor": "Run",
+    "Python.python_003_tuple.executor": "Run",
+    "Python.python_004_dict.executor": "Run",
+    "Python.python_005aaaaa-loops.executor": "Run",
+    "Python.python_006_function.executor": "Run",
+    "Python.python_007_class.executor": "Run",
+    "Python.python_008_class.executor": "Run",
+    "Python.python_009_class.executor": "Run",
+    "Python.second_demo.executor": "Run",
+    "Python.selenuim_001_demoBrowser.executor": "Run",
+    "Python.selenuim_002_demoBrowser.executor": "Run",
+    "Python.selenuim_003_demo.executor": "Run",
+    "Python.selenuim_004_firefox.executor": "Run",
+    "Python.selenuim_005_Edge.executor": "Run",
+    "Python.selenuim_006_locators.executor": "Run",
+    "Python.selenuim_007_locators.executor": "Run",
+    "Python.selenuim_007_xpath (1).executor": "Run",
+    "Python.selenuim_008_cssselcter.executor": "Run",
+    "Python.selenuim_010_cssselcter.executor": "Run",
+    "Python.selenuim_011_locator_extensions.executor": "Run",
+    "Python.selenuim_012_static_dropdown.executor": "Run",
+    "Python.selenuim_013_dropdown_text.executor": "Run",
+    "Python.selenuim_014_ui_control.executor": "Run",
+    "Python.selenuim_015_radio_buttons.executor": "Run",
+    "Python.selenuim_016_handle_java_popup.executor": "Run",
+    "Python.selenuim_017_explicit_and_implicit.executor": "Run",
+    "Python.selenuim_018_chaining.executor": "Run",
+    "Python.selenuim_019_explicit_and_implicit.executor": "Run",
+    "Python.selenuim_020_explicit.executor": "Run",
+    "Python.selenuim_021_explicit.executor": "Run",
+    "Python.selenuim_022_exercise.executor": "Run",
+    "Python.selenuim_023_action_demo.executor": "Run",
+    "Python.selenuim_024_child_window.executor": "Run",
+    "Python.selenuim_025_assigment.executor": "Run",
+    "Python.selenuim_025_iframes.executor": "Run",
+    "Python.selenuim_027_executing_javascript_using_python.executor": "Run",
+    "Python.selenuim_028_headless_mode.executor": "Run",
+    "Python.selenuim_030_how_to_short_table.executor": "Debug",
+    "Python.selenuim_031_how_to_short_table_added_debug.executor": "Debug",
+    "Python.selenuim_032_chrome_option_demo.executor": "Run",
+    "Python.selenuim_033_end_to_end_practice.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "D:/selenium_python/pythonSelenium/pytestsDemo",
+    "settings.editor.selected.configurable": "advanced.settings"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\selenium_python\pythonSelenium\pytestsDemo" />
+      <recent name="D:\selenium_python\pythonSelenium\pythonSelenium" />
+      <recent name="D:\selenium_python\pythonSelenium\pythonBasics" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python tests.Python tests for test_demo_011.TestExample2.test_editProfile">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="pythonSelenium" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_demo_001.test_firstProgram" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="pythonSelenium" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pytestsDemo" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_demo_001.test_firstProgram&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_demo_011.TestExample2.test_editProfile" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="pythonSelenium" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pytestsDemo" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_demo_011.TestExample2.test_editProfile&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests in test_demo_001.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="pythonSelenium" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pytestsDemo" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/pytestsDemo/test_demo_001.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests in test_demo_007.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="pythonSelenium" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pytestsDemo" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/pytestsDemo/test_demo_007.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests in test_demo_010.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="pythonSelenium" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pytestsDemo" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/pytestsDemo/test_demo_010.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Python tests for test_demo_011.TestExample2.test_editProfile" />
+        <item itemvalue="Python tests.Python tests in test_demo_010.py" />
+        <item itemvalue="Python tests.Python tests in test_demo_007.py" />
+        <item itemvalue="Python tests.Python tests in test_demo_001.py" />
+        <item itemvalue="Python tests.Python tests for test_demo_001.test_firstProgram" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-babbdf50b680-746f403e7f0c-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.15989.155" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7bf766ff-f210-473d-ba35-46f3d9b89e89" name="Changes" comment="" />
+      <created>1716016778987</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1716016778987</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/pythonSelenium/selenuim_013_dropdown_text.py</url>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/pythonSelenium/selenuim_031_how_to_short_table_added_debug.py</url>
+          <line>21</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

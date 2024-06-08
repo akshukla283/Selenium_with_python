@@ -1,0 +1,10 @@
+2024-06-05 18:47:22,752 :INFO :test_loggin_from_util_Baseclass : ['Ankit', 'Shukla', 'akshukla@gmail.com']
+2024-06-05 18:47:22,752 :INFO :test_loggin_from_util_Baseclass : First name : Ankit
+2024-06-05 18:47:22,752 :INFO :test_loggin_from_util_Baseclass : Last name : Shukla
+2024-06-05 18:47:22,752 :INFO :test_loggin_from_util_Baseclass : Email : akshukla@gmail.com
+2024-06-05 18:47:22,752 :INFO :test_loggin_from_util_Baseclass : This is from test class 'TestExample3' and test method 'test_loggin_from_util_Baseclass'
+2024-06-05 18:50:43,854 :INFO :test_loggin_from_util_Baseclass : ['Ankit', 'Shukla', 'akshukla@gmail.com']
+2024-06-05 18:50:43,854 :INFO :test_loggin_from_util_Baseclass : First name : Ankit
+2024-06-05 18:50:43,854 :INFO :test_loggin_from_util_Baseclass : Last name : Shukla
+2024-06-05 18:50:43,854 :INFO :test_loggin_from_util_Baseclass : Email : akshukla@gmail.com
+2024-06-05 18:50:43,854 :INFO :test_loggin_from_util_Baseclass : This is from test class 'TestExample3' and test method 'test_loggin_from_util_Baseclass'

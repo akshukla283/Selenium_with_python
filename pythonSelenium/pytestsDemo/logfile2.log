@@ -1,0 +1,10 @@
+2024-06-05 17:59:48,644 :DEBUG :pytestsDemo.test_demo_015_logging : A debug statement is executed
+2024-06-05 17:59:48,644 :INFO :pytestsDemo.test_demo_015_logging : Information statements 
+2024-06-05 17:59:48,644 :WARNING :pytestsDemo.test_demo_015_logging : Something is in warning mode
+2024-06-05 17:59:48,644 :ERROR :pytestsDemo.test_demo_015_logging : A major error has happened
+2024-06-05 17:59:48,644 :CRITICAL :pytestsDemo.test_demo_015_logging : Critical issue
+2024-06-05 18:01:05,250 :DEBUG :pytestsDemo.test_demo_015_logging : A debug statement is executed
+2024-06-05 18:01:05,250 :INFO :pytestsDemo.test_demo_015_logging : Information statements 
+2024-06-05 18:01:05,250 :WARNING :pytestsDemo.test_demo_015_logging : Something is in warning mode
+2024-06-05 18:01:05,250 :ERROR :pytestsDemo.test_demo_015_logging : A major error has happened
+2024-06-05 18:01:05,250 :CRITICAL :pytestsDemo.test_demo_015_logging : Critical issue

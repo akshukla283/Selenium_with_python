@@ -1,0 +1,10 @@
+# our framework located at D:\selenium_python\PythonSelfFramework\pythonProject
+# but our test in Tests dir so we have to travel test dir
+
+cd tests
+
+# Now you can run the test  and want to log into a different folder
+# Jenkins provides many environment variables and this "WORKSPACE" variable is one of them which provides the absolute path
+# You can check on this path http://localhost:8080/env-vars.html/
+
+pytest --browser_name firefox --html=$WORKSPACE\reports\report_from_jenkins1.html

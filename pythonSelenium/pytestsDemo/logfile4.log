@@ -1,0 +1,5 @@
+2024-06-05 18:35:58,332 :INFO :pytestsDemo.base_class : ['Ankit', 'Shukla', 'akshukla@gmail.com']
+2024-06-05 18:35:58,332 :INFO :pytestsDemo.base_class : First name : Ankit
+2024-06-05 18:35:58,332 :INFO :pytestsDemo.base_class : Last name : Shukla
+2024-06-05 18:35:58,332 :INFO :pytestsDemo.base_class : Email : akshukla@gmail.com
+2024-06-05 18:35:58,332 :INFO :pytestsDemo.base_class : This is from test class 'TestExample3' and test method 'test_loggin_from_util_Baseclass'

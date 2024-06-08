@@ -1,0 +1,32 @@
+
+In Selenium with Python, implicit and explicit waits are mechanisms to instruct the WebDriver to wait for a certain condition
+to be met before proceeding with the next step in the test script. These waits help in managing the synchronization of the script
+with the web elements' loading times, ensuring more reliable and stable test execution.
+
+### Implicit Wait
+Implicit wait tells the WebDriver to poll the DOM for a certain amount of time when trying to find any element (or elements)
+if they are not immediately available. It applies to all elements in the test script.
+
+### Explicit Wait
+Explicit wait tells the WebDriver to wait for certain conditions to occur before proceeding further in the code. It allows
+for more fine-grained control over waiting, specifying the condition to wait for, and how long to wait for that condition to be met.
+
+Common Expected Conditions
+When using explicit waits, you can wait for various conditions such as:
+
+* --> presence_of_element_located: Waits for the element to be present in the DOM.
+* --> visibility_of_element_located: Waits for the element to be visible.
+* --> element_to_be_clickable: Waits for the element to be clickable.
+* --> text_to_be_present_in_element: Waits for the text to be present in the specified element.
+* --> title_is: Waits for the page title to be exactly a certain value.
+* --> title_contains: Waits for the page title to contain a certain value.
+
+Differences Between Implicit and Explicit Waits
+Scope: Implicit wait applies to all elements in the script globally, while explicit wait is used for a specific element or condition.
+Flexibility: Explicit wait provides more flexibility and control over waiting conditions.
+Performance: Overusing implicit waits can slow down the execution of your script because it will apply the wait time to all elements globally.
+ Explicit waits, being condition-based, can be more efficient.
+Usage Recommendation
+It's generally recommended to use explicit waits over implicit waits for better control and efficiency. Combining both types of waits
+can lead to unexpected behavior and should be done cautiously. Implicit waits can be useful for simple synchronization needs,
+ while explicit waits are more suitable for complex conditions and dynamic content.
